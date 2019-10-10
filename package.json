@@ -1,0 +1,8 @@
+{
+  "name": "vue-pit",
+  "version": "0.1.0",
+  "description": "A simple store for vue",
+  "main": "index.js",
+  "author": "bazuka5801",
+  "license": "MIT",
+}
